@@ -1,6 +1,6 @@
 package Day4;
 
-public class Solution33333333 {
+public class Solution3xx {
     public int findRepeatNumber(int[] nums){
         for(int i=0; i<nums.length;i++){
             if(nums[i] == i) continue;

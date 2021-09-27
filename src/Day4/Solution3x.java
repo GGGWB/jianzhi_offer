@@ -3,7 +3,7 @@ package Day4;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution32222 {
+public class Solution3x {
     public int findRepeatNumber(int[] nums){
         Set<Integer> dic = new HashSet<>();
         for(int num :nums){

@@ -1,6 +1,6 @@
 package Day4;
 
-public class Solution344444444444 {
+public class Solution3xxx {
     public int findRepeatNumber(int[] nums){
         int i = 0;
         while(i<nums.length){
